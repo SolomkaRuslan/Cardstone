@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="footer">
       <div className="footer-container">
         <div className="footer-row">
-          <p>Created by Solomka Ruslan with React:</p>
+          <p>Created with React:</p>
           <p>Hearthstone API used for this project:</p>
           <p>Official Hearthstone web-site</p>
         </div>

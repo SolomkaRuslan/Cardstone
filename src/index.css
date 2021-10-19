@@ -633,7 +633,7 @@ li span {
   background-image: url(https://d2q63o9r0h0ohi.cloudfront.net/images/card-gallery/dropdown_middle_stretch_hoverselected-a3bf5835cdaed6566428e329011a9e5d0547ef83dca190d82a64540d489bfac9f74e8a0d6de520545410119e861a7e17fffdf5f0c6053ba398e5f6c344670abe.png);
 }
 
-.exp::before{
+.exp::before {
   background-image: url(https://d2q63o9r0h0ohi.cloudfront.net/images/card-gallery/dropdown_left_hoverselected-c247b15be32c461c41d12533649b31cd922981600254b5cd14ca132aebe57453bd7250c59519699e0b8ec011db88c45cdac7b653ce2232b0dbf623bbbea2b84b.png);
 }
 
@@ -1209,15 +1209,15 @@ li span {
   position: relative;
 }
 
+.footer-row {
+  width: 100%;
+}
+
 .footer-container {
   display: flex;
   justify-content: space-between;
   width: 100%;
   max-width: 900px;
-}
-
-.footer-row {
-  width: 100%;
 }
 
 .footer-row p,
@@ -1233,21 +1233,4 @@ li span {
 .footer-row a:hover,
 .footer-row a:focus {
   color: rgb(252, 209, 68);
-}
-
-.footer::before {
-  content: "";
-  position: absolute;
-  width: 100%;
-  top: -210px;
-  width: 100%;
-  height: 243px;
-  left: 0;
-  background: url(https://d2q63o9r0h0ohi.cloudfront.net/images/esports/tournament/Event_Parchment_Bottom-1fe281d04741ee657de6041bf29e6cb932f34f2d2ea17e34ed1bf3093e96f330c13012c4fd115f90aeb106cfc7cedb00c70f6fa30971c664744cb834edb298ba.png)
-    center top repeat-x;
-}
-
-.filters {
-  padding-right: 1rem;
-  overflow: visible;
 }
