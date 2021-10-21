@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Cardstone/static/css/main.1e9b9370.chunk.css",
-    "main.js": "/Cardstone/static/js/main.7e853e1c.chunk.js",
-    "main.js.map": "/Cardstone/static/js/main.7e853e1c.chunk.js.map",
+    "main.css": "/Cardstone/static/css/main.75cf76a3.chunk.css",
+    "main.js": "/Cardstone/static/js/main.d181a7f9.chunk.js",
+    "main.js.map": "/Cardstone/static/js/main.d181a7f9.chunk.js.map",
     "runtime-main.js": "/Cardstone/static/js/runtime-main.cb9e552a.js",
     "runtime-main.js.map": "/Cardstone/static/js/runtime-main.cb9e552a.js.map",
     "static/js/2.ae7d17b6.chunk.js": "/Cardstone/static/js/2.ae7d17b6.chunk.js",
     "static/js/2.ae7d17b6.chunk.js.map": "/Cardstone/static/js/2.ae7d17b6.chunk.js.map",
     "index.html": "/Cardstone/index.html",
-    "static/css/main.1e9b9370.chunk.css.map": "/Cardstone/static/css/main.1e9b9370.chunk.css.map",
+    "static/css/main.75cf76a3.chunk.css.map": "/Cardstone/static/css/main.75cf76a3.chunk.css.map",
     "static/js/2.ae7d17b6.chunk.js.LICENSE.txt": "/Cardstone/static/js/2.ae7d17b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb9e552a.js",
     "static/js/2.ae7d17b6.chunk.js",
-    "static/css/main.1e9b9370.chunk.css",
-    "static/js/main.7e853e1c.chunk.js"
+    "static/css/main.75cf76a3.chunk.css",
+    "static/js/main.d181a7f9.chunk.js"
   ]
 }
