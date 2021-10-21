@@ -1,20 +1,3 @@
-@import url(//db.onlinewebfonts.com/c/3ee8a7eb4aa82d9eb4f73e85e2e02eaf?family=Belwe);
-
-@font-face {
-  font-family: "Belwe";
-  src: url("//db.onlinewebfonts.com/t/3ee8a7eb4aa82d9eb4f73e85e2e02eaf.eot");
-  src: url("//db.onlinewebfonts.com/t/3ee8a7eb4aa82d9eb4f73e85e2e02eaf.eot?#iefix")
-      format("embedded-opentype"),
-    url("//db.onlinewebfonts.com/t/3ee8a7eb4aa82d9eb4f73e85e2e02eaf.woff2")
-      format("woff2"),
-    url("//db.onlinewebfonts.com/t/3ee8a7eb4aa82d9eb4f73e85e2e02eaf.woff")
-      format("woff"),
-    url("//db.onlinewebfonts.com/t/3ee8a7eb4aa82d9eb4f73e85e2e02eaf.ttf")
-      format("truetype"),
-    url("//db.onlinewebfonts.com/t/3ee8a7eb4aa82d9eb4f73e85e2e02eaf.svg#Belwe")
-      format("svg");
-}
-
 @media (min-width: 1600px) {
   .card-deck {
     left: calc(50% + 363px);
