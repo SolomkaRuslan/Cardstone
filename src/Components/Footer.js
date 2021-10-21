@@ -6,6 +6,9 @@ const Footer = () => {
           <p>Created with React:</p>
           <p>Hearthstone API used for this project:</p>
           <p>Official Hearthstone web-site</p>
+          <p>
+            <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>
+          </p>
         </div>
         <div className="footer-row">
           <p>solomkaruslan3@gmail.com</p>
